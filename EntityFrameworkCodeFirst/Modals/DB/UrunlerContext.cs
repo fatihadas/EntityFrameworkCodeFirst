@@ -22,6 +22,7 @@ namespace EntityFrameworkCodeFirst.Modals.DB
             Database.Connection.ConnectionString = @"Server=.;Database=UrunlerContext2;Integrated Security=True";
 
 
+
         }
     }
 }
